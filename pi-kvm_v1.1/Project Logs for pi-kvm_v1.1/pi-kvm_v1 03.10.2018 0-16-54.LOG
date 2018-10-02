@@ -1,0 +1,4 @@
+Change Component Library : Designator=R3 Old Library=Resistors.DbLib New Library=awesome_lib_1.SchLib
+Change Component Library : Designator=R4 Old Library=Resistors.DbLib New Library=awesome_lib_1.SchLib
+Change Component Library : Designator=R5 Old Library=Resistors.DbLib New Library=awesome_lib_1.SchLib
+Change Component Library : Designator=R7 Old Library=Resistors.DbLib New Library=awesome_lib_1.SchLib

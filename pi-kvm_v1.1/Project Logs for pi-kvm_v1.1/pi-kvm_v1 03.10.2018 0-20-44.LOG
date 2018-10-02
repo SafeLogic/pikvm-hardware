@@ -1,0 +1,15 @@
+Change Component Comment: Designator=J12 Old Comment=Connector  2.54 2-pin opposite New Comment=Jumper
+Change Component Comment: Designator=J13 Old Comment=Connector  2.54 2-pin opposite New Comment=Jumper
+Change Component Comment: Designator=J4 Old Comment=Connector  2.54 2x2-pin New Comment=HDD
+Change Component Comment: Designator=J10 Old Comment=Connector  2.54 2x2-pin New Comment=Jumper
+Change Component Comment: Designator=J5 Old Comment=Connector  2.54 2x2-pin New Comment=Pwr
+Change Component Comment: Designator=J8 Old Comment=Connector  2.54 2x2-pin New Comment=Rst
+Change Component Comment: Designator=J3 Old Comment=Connector  2.54 3x2-pin New Comment=Power
+Change Component Comment: Designator=IC1 Old Comment==Device New Comment=CPC1008N
+Change Component Comment: Designator=IC2 Old Comment==Device New Comment=CPC1008N
+Change Component Comment: Designator=IC3 Old Comment==Device New Comment=CPC1008N
+Change Component Comment: Designator=IC4 Old Comment==Device New Comment=CPC1008N
+Change Component Comment: Designator=T1 Old Comment==Device New Comment=FDS6679AZ
+Change Component Comment: Designator=J1 Old Comment==Family New Comment=8P8C
+Change Component Comment: Designator=J2 Old Comment==Family New Comment=8P8C
+Change Component Comment: Designator=J6 Old Comment==Family New Comment=USB A
