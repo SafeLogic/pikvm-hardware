@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for pi-kvm_v1.1
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -90,83 +90,47 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\pi-kvm_v1.1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\pi-kvm_v1.1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\pi-kvm_v1.1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\pi-kvm_v1.1.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument13]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\pi-kvm_v1.1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\pi-kvm_v1.1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\pi-kvm_v1.1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.REP
 DItemRevisionGUID=
 
 [Configuration1]
@@ -216,7 +180,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for pi-kvm_v1.1
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
