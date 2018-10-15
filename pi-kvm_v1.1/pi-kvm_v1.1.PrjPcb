@@ -90,47 +90,55 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GBL
+DocumentPath=Project Outputs for pi-kvm_v1.1\Bill of Materials\Bill of Materials-pi-kvm_v1.1.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GBO
+DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GBS
+DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GD1
+DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GG1
+DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GM1
+DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GM2
+DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GM14
+DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GTL
+DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GTO
+DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
+DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
 DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for pi-kvm_v1.1\NC Drill Files\pi-kvm_v1.1.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -185,7 +193,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Samsung Universal Print Driver
+TargetPrinter=\\hromova-book\HP LaserJet M1120 MFP (копия 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -306,7 +314,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung Universal Print Driver
+TargetPrinter=\\hromova-book\HP LaserJet M1120 MFP (копия 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -473,7 +481,7 @@ PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Samsung Universal Print Driver
+TargetPrinter=\\hromova-book\HP LaserJet M1120 MFP (копия 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -495,7 +503,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Samsung Universal Print Driver
+TargetPrinter=\\hromova-book\HP LaserJet M1120 MFP (копия 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=ODB
 OutputName1=ODB++ Files
@@ -569,7 +577,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Samsung Universal Print Driver
+TargetPrinter=\\hromova-book\HP LaserJet M1120 MFP (копия 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -608,7 +616,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Samsung Universal Print Driver
+TargetPrinter=\\hromova-book\HP LaserJet M1120 MFP (копия 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -788,7 +796,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Samsung Universal Print Driver
+TargetPrinter=\\hromova-book\HP LaserJet M1120 MFP (копия 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -827,7 +835,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Samsung Universal Print Driver
+TargetPrinter=\\hromova-book\HP LaserJet M1120 MFP (копия 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -878,7 +886,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Samsung Universal Print Driver
+TargetPrinter=\\hromova-book\HP LaserJet M1120 MFP (копия 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
