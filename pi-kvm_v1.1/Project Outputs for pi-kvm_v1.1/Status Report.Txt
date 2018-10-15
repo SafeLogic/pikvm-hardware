@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [pi-kvm_v1.1.PcbDoc]
+   Generated File[Bill of Materials-pi-kvm_v1.1.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:12:05 On 15.10.2018
