@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EYRBNQMB
 
 [Document3]
-DocumentPath=Output_Job_1.OutJob
+DocumentPath=pi-kvm_v1.1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -88,58 +88,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Bill of Materials\Bill of Materials-pi-kvm_v1.1.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for pi-kvm_v1.1\NC Drill Files\pi-kvm_v1.1.TXT
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration

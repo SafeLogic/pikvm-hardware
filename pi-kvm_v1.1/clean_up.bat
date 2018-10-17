@@ -1,0 +1,10 @@
+rd /s /q "__Previews"
+rd /s /q "History"
+del "Project Outputs for pi-kvm_v1.1\Status Report.Txt"
+del "Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.apr"
+del "Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.EXTREP"
+del "Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1.1.REP"
+del "Project Outputs for pi-kvm_v1.1\Gerber Files\pi-kvm_v1-macro.APR_LIB"
+del "Project Outputs for pi-kvm_v1.1\NC Drill Files\pi-kvm_v1.1.DRR"
+del "Project Outputs for pi-kvm_v1.1\NC Drill Files\pi-kvm_v1.1.LDP"
+
